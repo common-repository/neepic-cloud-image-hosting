@@ -1,0 +1,13 @@
+# Svenska
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "Add avbildar"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "Uppladdning"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "Sparar"

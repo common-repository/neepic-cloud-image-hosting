@@ -1,0 +1,13 @@
+# Nederlands
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "afbeelding toe te voegen"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "Uploaden"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "Opslaan"

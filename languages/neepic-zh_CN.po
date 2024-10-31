@@ -1,0 +1,13 @@
+# 汉语
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "添加图片"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "上传"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "保存"

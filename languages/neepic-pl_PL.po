@@ -1,0 +1,13 @@
+# Polski
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "Dodaj zdjęcie"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "Ładowanie"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "Zapisywanie"

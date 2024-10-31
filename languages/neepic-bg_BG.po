@@ -1,0 +1,13 @@
+# Български
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "Добави снимка"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "Качване"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "Запазване"

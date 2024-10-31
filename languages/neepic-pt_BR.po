@@ -1,0 +1,13 @@
+# Português
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "Adicionar imagem"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "Transferindo Dados"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "Salvando"

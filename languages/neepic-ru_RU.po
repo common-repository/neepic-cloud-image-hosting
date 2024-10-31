@@ -1,0 +1,21 @@
+# Русский
+
+#: neepic/neepic.php:3
+msgid "NeePic - Cloud Image Hosting"
+msgstr "NeePic - Облачный фотохостинг"
+
+#: neepic/neepic.php:4
+msgid "Integrating NeePic with WordPress. All details <a href='http://neepic.net/plugin'>here</a>."
+msgstr "Интеграция NeePic с WordPress. Все подробности <a href='http://neepic.net/ru/plugin'>тут</a>."
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "Добавить изображение"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "Загрузка"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "Сохранение"

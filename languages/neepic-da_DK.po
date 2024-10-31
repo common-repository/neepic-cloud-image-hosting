@@ -1,0 +1,13 @@
+# Dansk
+
+#: neepic/neepic.php:35
+msgid "Add image"
+msgstr "Tilføj billede"
+
+#: neepic/neepic.php:36
+msgid "Uploading"
+msgstr "Uploading"
+
+#: neepic/neepic.php:37
+msgid "Saving"
+msgstr "Gemmer"
